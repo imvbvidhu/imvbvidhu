@@ -1,4 +1,10 @@
 ### Hi there 👋
+- I am Vidhu Bhardwaj graduated :mortar_board: from Delhi Technological University (Formerly DCE), India in 2021 
+- Software Engineer working in 5G :satellite: architechture development :globe_with_meridians:
+- C++ is my code partner :crystal_ball: 
+- Interested in  Data Compression techniques :file_folder: and operating systems :computer: 
+- Worked on Web projects and familiar with MERN stack 
+- Astronomy in my 'ME' time :telescope: 
 
 <!--
 **imvbvidhu/imvbvidhu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
